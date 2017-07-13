@@ -9,6 +9,12 @@ vim resume.md   # insert your own resume info
 make
 ```
 
+To initialize things, you may need to run 
+
+```
+mtxrun ---generate
+```
+
 ### Running Dockerized
 ```bash
 git clone https://github.com/mszep/pandoc_resume
