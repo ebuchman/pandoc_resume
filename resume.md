@@ -39,7 +39,13 @@ Education
 Work Experience
 ----------
 
-March 2019 - Present
+Jan 2020 - Present
+:    **CEO**; [Informal Systems](https://informal.systems) (Toronto, Canada)
+
+     * Co-operatively organized R&D firm in blockchains and formal verification, co-leading development of the [Cosmos Network](https://cosmos.network/).
+
+
+March 2019 - Dec 2019
 :    **Technical Director**; [Interchain Foundation](https://interchain.io) (Zug, Switzerland)
 
      * Non-profit foundation dedicated to research and development of open, distributed networks, with a focus on the [Cosmos Network](https://cosmos.network/).
